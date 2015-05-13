@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #00FFFF;
 	padding: 20px;
 }
 
@@ -63,13 +63,13 @@
 #edito h2
 {
 	color: #000;
-	font-size: 160%;
+	font-size: 160%;Site nameSite name
 	margin: 0 0 .5em;
 }
 
 #news
 {	
-	float: left;
+	float: left;out -b nom_de_branche
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
@@ -88,7 +88,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #00FFFF;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
